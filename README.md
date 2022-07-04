@@ -1,4 +1,4 @@
-# election_Analysis
+# Election_Analysis
 using Python to collect election results and analyze
 # Election_Analysis
 
@@ -47,6 +47,8 @@ Total votes for all counties were 369,711 as stated above. Denver had the highes
 I propose that this code can be used in future elections statewide. The python code is "robust" and can be used for any statewide election given the following:
 - A seperate csv file for each election.
 - A seperate election analysis file to record results.
+
+
 The code does not "hard wire" candidates or counties and can therefore be used for any statewide election.
 
 
