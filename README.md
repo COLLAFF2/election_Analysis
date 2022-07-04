@@ -34,7 +34,9 @@ The analysis of the election show that:
 The Election commission requested additional data to complete the election audit. The equest included:
 
 -The voter turnout for each county.
+
 -The percentage of votes for each county out of total count.
+
 -County with the highest turnout.
 
 
