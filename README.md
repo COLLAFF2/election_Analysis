@@ -31,6 +31,12 @@ The analysis of the election show that:
   - Candidate Diana DeGette, who received 73.8% of votes and 272,892 number of votes.
   
 ## Challenge Overview
+The Election commission requested additional data to complete the election audit. The equest included:
+
+-The voter turnout for each county.
+-The percentage of votes for each county out of total count.
+-County with the highest turnout.
+<img width="446" alt="Screen Shot 2022-07-02 at 6 02 41 PM" src="https://user-images.githubusercontent.com/107623913/177210110-92f5b111-62d7-44d1-a930-751c69da206e.png">
 
 ## Challenge Summary
 
