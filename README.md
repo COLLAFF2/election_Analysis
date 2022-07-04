@@ -14,7 +14,7 @@ In said audit the following tasks are to be completed.
 
 ## Resources 
 -Data source: election_results.csv
--Software: Python 3.6.1, Visual Studio Code,1.38.1
+-Software: Python 3.7.6, Visual Studio Code,1.68.1
 
 ## Summary
 The analysis of the election show that:
